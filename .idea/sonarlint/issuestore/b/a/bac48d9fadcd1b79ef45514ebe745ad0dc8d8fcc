@@ -1,0 +1,9 @@
+
+˜	java:S116"XRename this field "KafkaTemplate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û·äÃıÿÿÿÿJ$51d19793-f109-4519-a886-9dab9e6c2928
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$9e12154a-0ec5-4531-98b2-d04759ef5e8c
+k	java:S106"+Replace this use of System.out by a logger.(‘øçÅùÿÿÿÿJ$fc59371b-15c3-47ab-ad99-6dd93a047154
+f	java:S106"+Replace this use of System.out by a logger.(î›èàJ$73287ce2-5c81-4d20-9387-9b705332f56c
+f	java:S106%"+Replace this use of System.out by a logger.(èß÷ŠJ$7bd71bf3-bf02-4a1d-a915-6a14f9335347
+k	java:S106'"+Replace this use of System.out by a logger.(‚ô½ıÿÿÿÿJ$42468f28-cfbc-49ec-8961-b1a9c5549f5d
+f	java:S106,"+Replace this use of System.out by a logger.(ëöÍšJ$2151e5ac-36f8-41ca-b265-07e1878dbb82
